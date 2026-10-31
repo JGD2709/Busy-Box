@@ -1,0 +1,3 @@
+# Codex implementation brief
+
+Build an editable WonderBox Facebook and Instagram marketing kit in this repository. Read marketing/README.md, marketing/captions.md, and marketing/content-calendar.csv. First inspect existing files and preserve any product-design work. Use the brand palette and approved source product images only. Create reusable templates for 4:5 feed posts, square posts, Stories, and a 5-slide carousel. Support editable headings, body copy, product image, and CTA via a JSON content file. Provide clear instructions to preview and export. Do not add fabricated product images or publish anything. If approved product assets are missing, render labelled placeholders and document exactly what is required.
